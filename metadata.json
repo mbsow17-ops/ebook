@@ -1,0 +1,6 @@
+{
+  "name": "Élan Intérieur — Librairie Confiance en Soi",
+  "description": "Librairie en ligne d'ebooks et guides pratiques sur la confiance en soi, l'estime personnelle, la prise de parole et le dépassement du syndrome de l'imposteur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
